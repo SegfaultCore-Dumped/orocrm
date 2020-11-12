@@ -32,7 +32,6 @@ minion:
     - data
     - source_code
   environment:
-    - DOCKER_HOST=35.210.167.117
     - CMD_INIT_BEFORE=
     - CMD_INIT_CLEAN=
     - CMD_INIT_INSTALLED=
