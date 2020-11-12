@@ -32,6 +32,7 @@ minion:
     - data
     - source_code
   environment:
+    - DOCKER_HOST=metbwe
     - CMD_INIT_BEFORE=
     - CMD_INIT_CLEAN=
     - CMD_INIT_INSTALLED=
